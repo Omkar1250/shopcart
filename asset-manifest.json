@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Omkar1250/shopcart.git/static/css/main.fd2abe44.css",
+    "main.js": "/Omkar1250/shopcart.git/static/js/main.61c106c6.js",
+    "static/js/592.73b77d2f.chunk.js": "/Omkar1250/shopcart.git/static/js/592.73b77d2f.chunk.js",
+    "index.html": "/Omkar1250/shopcart.git/index.html",
+    "main.fd2abe44.css.map": "/Omkar1250/shopcart.git/static/css/main.fd2abe44.css.map",
+    "main.61c106c6.js.map": "/Omkar1250/shopcart.git/static/js/main.61c106c6.js.map",
+    "592.73b77d2f.chunk.js.map": "/Omkar1250/shopcart.git/static/js/592.73b77d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2abe44.css",
+    "static/js/main.61c106c6.js"
+  ]
+}
